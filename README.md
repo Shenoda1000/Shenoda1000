@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="shenodalogo.png" alt="Shenoda Yohana Logo" width="130" height="130" style="border-radius: 50%;" />
+  <img src="shenodalogo.png" alt="Shenoda Yohana Logo" width="180" height="180" style="border-radius: 50%; object-fit: cover;" />
 </p>
 
 <h1 align="center">
@@ -13,12 +13,12 @@
     <img src="https://img.shields.io/badge/Codeforces-Shenoda100-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Profile" />
   </a>
   &nbsp;
-  <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Shenoda_Yohana-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
+  <a href="https://github.com/Shenoda1000" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Shenoda1000-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
   </a>
   &nbsp;
-  <a href="mailto:your_email@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:shenodayohana24@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-shenodayohana24@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
@@ -65,5 +65,5 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&bg_color=0d1117&hide_border=true" width="90%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shenoda1000&theme=react-dark&bg_color=0d1117&hide_border=true" width="90%"/>
 </div>
