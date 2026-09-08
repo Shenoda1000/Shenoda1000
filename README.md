@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="shenodalogo.png" alt="Shenoda Yohana Logo" width="180" height="180" style="border-radius: 50%; object-fit: cover;" />
+  <img src="shenodalogo.png" alt="Shenoda Yohana Logo" width="180" height="200" style="border-radius: 100%; object-fit: cover;" />
 </p>
 
 <h1 align="center">
